@@ -1,0 +1,9 @@
+{
+    "zenMode.fullScreen": false,
+    "files.autoSave": "afterDelay",
+    "launch": {
+        
+        "configurations": [],
+        "compounds": []
+    }
+}
